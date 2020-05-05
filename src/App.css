@@ -31,13 +31,13 @@
 
 @-moz-keyframes AnimationName {
   0% {
-    background-position: 0% 7%;
+    background-position: 0% 15%;
   }
   50% {
     background-position: 100% 94%;
   }
   100% {
-    background-position: 0% 7%;
+    background-position: 0% 15%;
   }
 }
 
