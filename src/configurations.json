@@ -1,0 +1,40 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "devIntro": "Shivakumara Bannimatti ",
+  "devDesc": " Full Stack JS  Developer - React | Redux | Node JS | Express | MongoDB | GraphQL",
+  "gradientColors": "#FF5733, #FF5733, #FF5733, #FF5733",
+  "icons": [
+    {
+      "id": 0,
+      "image": "fab fa-github",
+      "url": "https://github.com/shivaslb72",
+      "style": "socialicons"
+    },
+    {
+      "id": 1,
+      "image": "fab fa-linkedin",
+      "url": "https://www.linkedin.com/in/shivakumar-bannimatti-38754012b",
+      "style": "socialicons"
+    },
+    {
+      "id": 2,
+      "image": "fab fa-twitter",
+      "url": "https://twitter.com/shivaslb72",
+      "style": "socialicons"
+    },
+    {
+      "id": 3,
+      "image": "fas fa-file-pdf",
+      "url": "https://drive.google.com/open?id=1kf4zNjV630ajXqCE1COwnVT8-y8ZZElm",
+      "style": "socialicons"
+    }
+  ],
+  "instaLink": "https://www.instagram.com/",
+  "instaUsername": "shivakumar_bannimatti",
+  "instaQuerry": "/?__a=1",
+  "aboutDev": "Hi I am an Software engineer with work experience of 1.5 years in Web , currently open for  employment opportunities pertaining to Full Stack JS , with any frameworks , I am an enthusiastic developer willing to explore new technologies and learn and try to be a better programmer each single day ",
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "shivaslb72",
+  "gitHubQuerry": "/repos?direction=desc&sort=pushed"
+}
